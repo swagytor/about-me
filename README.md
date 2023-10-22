@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksei</h1>
+<p align="center">
+<img src="https://github.com/swagytor/about-me/blob/main/gif.gif" width="500"/>
+</p>
 <h3 align="center">Python-Developer from St.Petersburg</h3>
 
 
